@@ -56,6 +56,6 @@ Este proyecto está bajo la licencia MIT. Puedes consultar los detalles en el ar
 ⭐️ No olvides darle una estrella a este proyecto si te gusta! 😄
 
 🌟 ¡Gracias por visitar este proyecto! 🌟
-arduino
+
 
 ```
