@@ -35,6 +35,7 @@ Este proyecto es una aplicación web simple que permite a los usuarios ingresar 
 ├── index.html     # Estructura principal de la aplicación
 ├── styles.css     # Estilos para la interfaz
 └── script.js      # Lógica del temporizador
+```
 
 💻 Cómo contribuir
 ¡Contribuciones son bienvenidas! Si deseas mejorar este proyecto:
